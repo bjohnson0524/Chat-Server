@@ -15,7 +15,7 @@ import javax.swing.border.Border;
 
 public class ChatServer extends JFrame 
 {
-
+	//test stuff
 	JButton startButton, stopButton;
 	JTextField textBox;
 	JTextArea textWindow;
